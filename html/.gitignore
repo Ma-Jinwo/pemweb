@@ -1,0 +1,19 @@
+# Laravel
+html/vendor/
+html/node_modules/
+html/.env
+html/storage/*.key
+html/public/storage
+html/storage/logs/*.log
+
+# Composer & Node
+composer.lock
+package-lock.json
+
+# System
+.DS_Store
+*.log
+
+# IDE/editor configs
+.vscode/
+.idea/
